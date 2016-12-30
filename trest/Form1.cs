@@ -21,8 +21,9 @@ namespace trest
         {
             // Je meoder123
             MessageBox.Show("Je moeder");
-
             MessageBox.Show("Je vader");
+            MessageBox.Show("Je oma");
         }
+
     }
 }
