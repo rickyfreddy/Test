@@ -16,5 +16,11 @@ namespace trest
         {
             InitializeComponent();
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            // Je meoder123
+            MessageBox.Show("Je moeder");
+        }
     }
 }
